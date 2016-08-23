@@ -1,2 +1,4 @@
 # hello-world
-Taylor Shuff.  Junior Software Developer.  Nashville, Tennessee.
+* Taylor Shuff  
+* Junior Software Developer  
+* Nashville, Tennessee
